@@ -22,19 +22,26 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
 ## Images
-Get All Users <img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.07.32.png">
+Get All Users 
+<img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.07.32.png">
 
-Get User by Id <img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.07.40.png">
+Get User by Id 
+<img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.07.40.png">
 
-Create User <img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.07.48.png">
+Create User 
+<img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.07.48.png">
 
-Get All Thoughts <img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.08.11.png">
+Get All Thoughts 
+<img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.08.11.png">
 
-Create Thought <img width= 300 height=250 src= "images for readme/Screen Shot 2022-02-20 at 14.08.19.png">
+Create Thought 
+<img width= 300 height=250 src= "images for readme/Screen Shot 2022-02-20 at 14.08.19.png">
 
-Add Friend <img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.08.51.png">
+Add Friend 
+<img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.08.51.png">
 
-Create Reaction <img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.09.09.png">
+Create Reaction 
+<img width= 300 height=250 src="images for readme/Screen Shot 2022-02-20 at 14.09.09.png">
 
 
 ## Video Walk-through
